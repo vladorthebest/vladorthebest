@@ -13,6 +13,13 @@
   <a href="mailto: vladorthebest@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yellow?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
   <h1>
   Hello everyone
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
