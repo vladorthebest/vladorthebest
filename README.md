@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150"/>
 </div>
-<p>
+<p></p>
 <p>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/vladorsumy/?hl=ru">
