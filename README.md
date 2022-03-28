@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150"/>
 </div>
-<p></p>
-<p></p>
+<br> 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/vladorsumy/?hl=ru">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
