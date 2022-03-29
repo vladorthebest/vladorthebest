@@ -22,6 +22,7 @@
 
 ### :man_technologist: About Me :
 
+
 I am a  BackEnd Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="20"> from Ukraine.
 
 - 📚: I am studying to be a python backend software engineer
@@ -55,4 +56,8 @@ I am a  BackEnd Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPO
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladorthebest&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladorthebest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+My Stats in codewars:
+<br>
+<img src="https://www.codewars.com/users/vladorthebest/badges/large?logo=false" width="400">
 
