@@ -57,7 +57,7 @@ I am a  BackEnd Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladorthebest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-My Stats in codewars:
-<br>
+### <img src="https://docs.codewars.com/logo.svg" width="20"> My Stats in CodeWars:
+
 <img src="https://www.codewars.com/users/vladorthebest/badges/large?logo=false" width="400">
 
