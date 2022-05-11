@@ -6,6 +6,9 @@
   <a href="https://www.instagram.com/vladorsumy/?hl=ru">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/vladorsumy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="https://t.me/vladorsumy">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
@@ -33,7 +36,7 @@ I am a  BackEnd Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPO
 
 - ⏰: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/vladorsumy)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/vladorsumy) or [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vladorsumy/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
